@@ -1,4 +1,4 @@
 togetherFM
 ==========
 
-Together.FM is a media sharing prototype, where anyone can find, share and listen to anything with anyone else.
+The potential home for a media sharing prototype, where anything that can be found online can be shared to simultaneously with anyone else.
